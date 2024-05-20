@@ -179,7 +179,8 @@ class UploadPage extends HookWidget {
                               size: 50.sp,
                               color: Colors.grey,
                             ),
-                            BlackText(text: "Add Cover Photo", fontSize: 18.sp),
+                            BlackText(
+                                text: "Add a Cover Photo", fontSize: 18.sp),
                             GreyText(text: "(up to 12 mb)", fontSize: 11.sp)
                           ],
                         ),
