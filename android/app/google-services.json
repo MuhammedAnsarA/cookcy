@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "3622515206",
+    "project_id": "cookcy-196c8",
+    "storage_bucket": "cookcy-196c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3622515206:android:fc42081c4281867fbb8987",
+        "android_client_info": {
+          "package_name": "com.example.cookcy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3622515206-d8birt46rmalfpa3buv1ai1kpki4al9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cookcy",
+            "certificate_hash": "b7c1c91b9565993fd5761cca8e1625f7104e0bb4"
+          }
+        },
+        {
+          "client_id": "3622515206-glihjs7v8ntvdj22j2lfdam4v62ocbah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChX10o0JiJEQiBHKuA71xkkoEs80nf1Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3622515206-glihjs7v8ntvdj22j2lfdam4v62ocbah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3622515206-8ho724oilkl5hj949l91jh78gbr0cas7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookcy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
